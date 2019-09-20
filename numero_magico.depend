@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1568968863 source:c:\users\michele\documents\c++\numero_magico\main.cpp
+	<iostream>
+	<string.h>
+
+1568972606 source:c:\users\michele\documents\c++\caratteri\main.cpp
+	<iostream>
+	<string.h>
+
